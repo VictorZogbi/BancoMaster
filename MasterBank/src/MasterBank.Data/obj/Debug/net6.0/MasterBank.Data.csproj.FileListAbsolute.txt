@@ -1,0 +1,17 @@
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Data.deps.json
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Data.runtimeconfig.json
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Data.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Data.pdb
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Business.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Data\bin\Debug\net6.0\MasterBank.Business.pdb
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.csproj.AssemblyReference.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.AssemblyInfoInputs.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.AssemblyInfo.cs
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.csproj.CoreCompileInputs.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.csproj.CopyComplete
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\refint\MasterBank.Data.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.pdb
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\MasterBank.Data.genruntimeconfig.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Data\obj\Debug\net6.0\ref\MasterBank.Data.dll

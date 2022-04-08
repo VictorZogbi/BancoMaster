@@ -1,0 +1,12 @@
+D:\BancoMaster\MasterBank\src\MasterBank.Business\bin\Debug\net6.0\MasterBank.Business.deps.json
+D:\BancoMaster\MasterBank\src\MasterBank.Business\bin\Debug\net6.0\MasterBank.Business.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Business\bin\Debug\net6.0\MasterBank.Business.pdb
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.csproj.AssemblyReference.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.AssemblyInfoInputs.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.AssemblyInfo.cs
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.csproj.CoreCompileInputs.cache
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\refint\MasterBank.Business.dll
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\MasterBank.Business.pdb
+D:\BancoMaster\MasterBank\src\MasterBank.Business\obj\Debug\net6.0\ref\MasterBank.Business.dll
